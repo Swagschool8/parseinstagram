@@ -1,7 +1,7 @@
 # parseinstagram
 # Project 3 - *parseinstagram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**parseinstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **X** hours spent in total
 
@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+andriod studio not functioning well
 
 ## Open-source libraries used
 
